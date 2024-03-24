@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.autoworld</groupId>
-    <artifactId>ExcelUtility</artifactId>
+    <artifactId>excelreader</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
@@ -61,5 +61,5 @@
 
 
     </dependencies>
-    
+
 </project>
